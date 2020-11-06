@@ -1,0 +1,2 @@
+/generic/healthiness/details?lane=Customer&domain=Domain%20Customer%20Order%20&%20Payment&team=PPAY%20-%20Payment&capability=Offering%20of%20payment%20methods%20Overview%20of%20possible/%20available%20payment%20methods&feature=Payment%20Method%20Service&business_critical=true&business_healthiness_endpoint=true
+http://localhost:8080/3/healthiness/value

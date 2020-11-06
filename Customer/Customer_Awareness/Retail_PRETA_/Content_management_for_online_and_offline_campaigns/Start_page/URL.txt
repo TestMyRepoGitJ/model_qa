@@ -1,0 +1,2 @@
+/generic/healthiness/details?lane=Customer&domain=Customer%20Awareness&team=Retail%20(PRETA)&capability=Content%20management%20for%20online%20and%20offline%20campaigns&feature=Start%20page&business_critical=true&business_healthiness_endpoint=true
+http://localhost:8080/2/healthiness/value

@@ -1,0 +1,2 @@
+http://localhost:8080/3/healthiness/details
+http://localhost:8080/3/healthiness/value

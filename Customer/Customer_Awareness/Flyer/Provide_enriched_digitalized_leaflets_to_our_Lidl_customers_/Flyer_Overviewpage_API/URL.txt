@@ -1,0 +1,2 @@
+/generic/healthiness/details?lane=Customer&domain=Customer%20Awareness&team=Flyer&capability=Provide%20enriched%20digitalized%20leaflets%20to%20our%20Lidl%20customers.&feature=Flyer%20Overviewpage%20API&business_critical=true&business_healthiness_endpoint=true
+http://localhost:8080/0/healthiness/value
